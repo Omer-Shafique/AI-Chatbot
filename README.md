@@ -1,0 +1,1 @@
+I made this chat bot with the help of Chatgpt's API. If youre cloning this project please use your own api.
